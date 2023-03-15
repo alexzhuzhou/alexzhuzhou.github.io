@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DigitalTracesApp2/static/css/main.12c5ebc9.chunk.css",
+    "main.js": "/DigitalTracesApp2/static/js/main.ffb385f9.chunk.js",
+    "main.js.map": "/DigitalTracesApp2/static/js/main.ffb385f9.chunk.js.map",
+    "runtime-main.js": "/DigitalTracesApp2/static/js/runtime-main.c79b023e.js",
+    "runtime-main.js.map": "/DigitalTracesApp2/static/js/runtime-main.c79b023e.js.map",
+    "static/js/2.a5b70db7.chunk.js": "/DigitalTracesApp2/static/js/2.a5b70db7.chunk.js",
+    "static/js/2.a5b70db7.chunk.js.map": "/DigitalTracesApp2/static/js/2.a5b70db7.chunk.js.map",
+    "static/js/3.189ede8d.chunk.js": "/DigitalTracesApp2/static/js/3.189ede8d.chunk.js",
+    "static/js/3.189ede8d.chunk.js.map": "/DigitalTracesApp2/static/js/3.189ede8d.chunk.js.map",
+    "index.html": "/DigitalTracesApp2/index.html",
+    "static/css/main.12c5ebc9.chunk.css.map": "/DigitalTracesApp2/static/css/main.12c5ebc9.chunk.css.map",
+    "static/js/2.a5b70db7.chunk.js.LICENSE.txt": "/DigitalTracesApp2/static/js/2.a5b70db7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c79b023e.js",
+    "static/js/2.a5b70db7.chunk.js",
+    "static/css/main.12c5ebc9.chunk.css",
+    "static/js/main.ffb385f9.chunk.js"
+  ]
+}
